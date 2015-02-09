@@ -7,6 +7,5 @@ Répartiton des taches du projet :
 -Resultat recherche,
 -Fiche jeu,
 -Créer critique,
--Créer fiche jeu,
+-Créer fiche jeu,;
 -Profil utilisateur
-
