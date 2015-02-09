@@ -1,8 +1,9 @@
 # GamesReviews
 Répartiton des taches du projet :
 
-Page d'accueil :
-Menu /
+Page d'accueil 
+
+Menu 
 Recherche par filtre .
 Resultat recherche,
 Fiche jeu
